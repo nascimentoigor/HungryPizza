@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HungryPizza.Router.Api</name>
+    </assembly>
+    <members>
+        <member name="M:HungryPizza.Router.Api.Controllers.ApiUrlController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HungryPizza.Router.Api.Controllers.RouteController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HungryPizza.Router.Api.Controllers.RouteController.GetPorId(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HungryPizza.Router.Api.Controllers.RouteController.Delete(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HungryPizza.Router.Api.Controllers.RouteController.Post(HungryPizza.Router.Application.ViewModel.RoutesVM)">
+            <summary>
+            
+            </summary>
+            <param name="viewModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HungryPizza.Router.Api.Controllers.RouteController.Put(System.String,HungryPizza.Router.Application.ViewModel.RoutesVM)">
+            <summary>
+            
+            </summary>
+            <param name="viewModel"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

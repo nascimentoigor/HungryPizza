@@ -1,0 +1,23 @@
+{
+  "id": 0,
+  "idCliente": 0,
+  "dataPedido": "2022-01-16T20:40:42.655Z",
+  "qtdPizza": 2,
+  "vlTotal": 0,
+  "msgErro": "string",
+  "endereco": "string",
+  "sabores": [
+    {
+      "id": 0,
+      "sabor": "Calabresa",
+      "valor": 0,
+      "qtdRestantes": 0
+    },
+    {
+      "id": 0,
+      "sabor": "Pepperoni/Portuguesa",
+      "valor": 0,
+      "qtdRestantes": 0
+    }
+  ]
+}
